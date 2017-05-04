@@ -1,1 +1,1 @@
-# gotenks2.github.io
+# http://gotenks2.github.io
